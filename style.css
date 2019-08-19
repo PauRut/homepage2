@@ -1,0 +1,23 @@
+body {
+	background: #fefefe;
+}
+
+.mainHeader {
+	color: tomato;
+}
+
+.paragraph {
+	color: green;
+}
+
+.sectionHeader {
+	color: #1460AA;
+}
+
+.header {
+	color: hotpink;
+}
+
+.footer {
+	color: blue;
+}
